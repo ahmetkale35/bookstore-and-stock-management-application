@@ -37,3 +37,21 @@ The application uses an **SQLite** database to manage data. The following tables
 
 ## License
 - This project is licensed under the MIT License - see the LICENSE file for details.
+
+## ScreenShoots
+
+![login2](https://github.com/user-attachments/assets/74c7d30e-7025-466f-af87-8e92932a6f3b)
+
+![main1](https://github.com/user-attachments/assets/9b6a4357-2b4f-4e52-9817-5c6f11b350ce)
+
+![main2](https://github.com/user-attachments/assets/a98ce129-383b-4c58-8e91-9a0b29d1589a)
+
+![sepet](https://github.com/user-attachments/assets/978fd5b1-2c18-4892-865a-91e830864bf5)
+
+![admin1](https://github.com/user-attachments/assets/a18f2688-b2e1-4d66-81ca-adfbd6d84660)
+
+![admin2](https://github.com/user-attachments/assets/91350b18-a6d1-4da5-b228-8517cb9a51da)
+
+
+
+
