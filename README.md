@@ -25,10 +25,10 @@ The application uses an **SQLite** database to manage data. The following tables
    ```bash
    git clone https://github.com/ahmetkale35/bookstore-and-stock-management-application.git
    ` ``` `
-2.Open the project in Visual Studio (or your preferred C# development environment).
-3.Restore the NuGet packages and dependencies.
-4.Build the project.
-5.Run the application and start managing the bookstore.
+- 2.Open the project in Visual Studio (or your preferred C# development environment).
+- 3.Restore the NuGet packages and dependencies.
+- 4.Build the project.
+- 5.Run the application and start managing the bookstore.
 
 ## Technologies Used
 - C#: For developing the application logic and user interface.
